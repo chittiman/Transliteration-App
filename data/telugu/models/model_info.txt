@@ -1,2 +1,0 @@
-desert-river-538
-https://wandb.ai/chittimandatascience/telugu_transliteration/runs/3vwe74sw?workspace=user-chittimandatascience

@@ -1,2 +1,0 @@
-good-sweep-21
-https://wandb.ai/chittimandatascience/kannada_transliteration/runs/hw0kvvcp?workspace=user-chittimandatascience

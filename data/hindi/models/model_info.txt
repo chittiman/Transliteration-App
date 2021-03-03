@@ -1,2 +1,0 @@
-colorful-sweep-54
-https://wandb.ai/chittimandatascience/hindi_transliteration/runs/sc46r98z?workspace=user-chittimandatascience
