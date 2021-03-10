@@ -5,9 +5,11 @@ searcher_dict = {}
 
 languages = ["hindi", "telugu", "tamil","kannada"]
 
+#Loading beam searcher's for all the languages
 for language in languages:
     searcher_dict[language] = beam_searcher_loader(language)
-    
+
+#Selecting the beam searcher for appropriate language and converting the words    
 def translit_sentence(sentence,language):
     language = language.lower()
     searcher = searcher_dict[language]
