@@ -27,8 +27,7 @@ The transliteration model is basically a  <b> Encoder - Decoder network based on
 
 6) Once the results from beam search are obtained, the transliterated words are rejoined in a way to <b>preserve the punctuation</b> and final sentence is returned.
 
-Dataset URL:
-[https://github.com/google-research-datasets/dakshina](Dakshina dataset)
+Dataset : [Dakshina dataset](https://github.com/google-research-datasets/dakshina)
 
 For queries contact - <a href="https://twitter.com/chittiman">Chitreddy Sairam</a>
 
